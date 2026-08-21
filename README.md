@@ -1,6 +1,6 @@
 # esp32-s3-llm-0.2b
 
-> **A 0.2 Billion parameter Large Language Model (Transformer) running on an ESP32-S3 microcontroller with 8mb psram**
+> **Ourselves, Adwaith Hari and Chandrakiran S. We ran a 0.2 Billion parameter Large Language Model (Transformer) on an ESP32-S3 microcontroller with 8mb psram**
 
 This repository implements a lightweight **0.2B parameter Transformer** capable of executing local, on-device inference on an **ESP32-S3** microcontroller without any cloud APIs or internet connection.
 

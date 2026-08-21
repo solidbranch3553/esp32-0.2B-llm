@@ -1,4 +1,4 @@
-# esp32-s3-llm-0.2b
+# Running a 0.2 Billion parameter Large Language Model (Transformer) on an ESP32-S3 microcontroller with 8mb psram
 
 > **Ourselves, Adwaith Hari (SolidBranch3553) and Chandrakiran S studying in 12th standard. We ran a 0.2 Billion parameter Large Language Model (Transformer) on an ESP32-S3 microcontroller with 8mb psram**
 
